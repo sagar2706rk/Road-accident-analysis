@@ -1,0 +1,36 @@
+* {
+  background: url('images\\bicycle-accident-attorney-walpole-norwood-dedham-westwood-ma-background.jpg');
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+  font-family: Calibri, Helvetica, sans-serif;
+  margin-top: 20px;
+  size: 3em;
+}
+
+h4 {
+  color: #FFFFFF;
+  font-family: Calibri;
+  margin-left: 100px;
+  line-height: 2em;
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+table {
+  margin-top: 20px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  float: left;
+}

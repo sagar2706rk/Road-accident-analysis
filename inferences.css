@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #004953;
+}
+h1 {
+  color: #F0E68C;
+  background-color: #AFDBF5;
+  size: 3em;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 20px;
+  text-shadow: 2px 3px 5px red;
+}
+div {
+  margin-left: 50px;
+}
+
+ul {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 3em;
+}
+.raju {
+  float: left;
+  min-height: 500px;
+  width: 500px;
+  background-color: #93a1a1;
+  display: inline-block;
+  margin-left: 90px;
+  margin-top: 50px;
+  line-height: 2em;
+}
+.komal {
+  min-height: 500px;
+  width: 500px;
+  background-color: #93a1a1;
+  display: inline-block;
+  margin-left: 200px;
+  margin-top: 50px;
+  line-height: 2em;
+  margin-bottom: 100px;
+}
